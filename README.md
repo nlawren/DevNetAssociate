@@ -34,7 +34,7 @@ Refer to the details on the Cisco Learning Network [page](https://learningnetwor
 * 2.8 Compare common API styles (REST, RPC, synchronous, and asynchronous)
 * 2.9 Construct a Python script that calls a REST API using the requests library
 
-### 3.0 Cisco Platforms and Development
+### 3.0 Cisco Platforms and Development (15%)
 
 * 3.1 Construct a Python script that uses a Cisco SDK given SDK documentation
 * 3.2 Describe the capabilities of Cisco network management platforms and APIs (Meraki, Cisco DNA Center, ACI, Cisco SD-WAN, and NSO)
