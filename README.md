@@ -66,3 +66,20 @@ Refer to the details on the Cisco Learning Network [page](https://learningnetwor
 * 4.10 Describe top OWASP threats (such as XSS, SQL injections, and CSRF)
 * 4.11 Utilize Bash commands (file management, directory navigation, and environmental variables)
 * 4.12 Identify the principles of DevOps practices
+
+### 5.0 Infrastructure and Automation (20%)
+
+* 5.1 Describe the value of model driven programmability for infrastructure automation
+* 5.2 Compare controller-level to device-level management
+* 5.3 Describe the use and roles of network simulation and test tools (such as Cisco Modeling Labs and pyATS)
+* 5.4 Describe the components and benefits of CI/CD pipeline in infrastructure automation
+* 5.5 Describe principles of infrastructure as code
+* 5.6 Describe the capabilities of automation tools such as Ansible, Terraform, and Cisco NSO
+* 5.7 Identify the workflow being automated by a Python script that uses Cisco APIs including ACI, Meraki, Cisco DNA Center, or RESTCONF
+* 5.8 Identify the workflow being automated by an Ansible playbook (management packages, user management related to services, basic service configuration, and start/stop)
+* 5.9 Identify the workflow being automated by a bash script (such as file management, app install, user management, directory navigation)
+* 5.10 Interpret the results of a RESTCONF or NETCONF query
+* 5.11 Interpret basic YANG models
+* 5.12 Interpret a unified diff
+* 5.13 Describe the principles and benefits of a code review process
+* 5.14 Interpret sequence diagram that includes API calls
