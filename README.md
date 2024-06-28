@@ -83,3 +83,15 @@ Refer to the details on the Cisco Learning Network [page](https://learningnetwor
 * 5.12 Interpret a unified diff
 * 5.13 Describe the principles and benefits of a code review process
 * 5.14 Interpret sequence diagram that includes API calls
+
+### 6.0 Network Fundamentals (15%)
+
+* 6.1 Describe the purpose and usage of MAC addresses and VLANs
+* 6.2 Describe the purpose and usage of IP addresses, routes, subnet mask / prefix, and gateways
+* 6.3 Describe the function of common networking components (such as switches, routers, firewalls, and load balancers)
+* 6.4 Interpret a basic network topology diagram with elements such as switches, routers, firewalls, load balancers, and port values
+* 6.5 Describe the function of management, data, and control planes in a network device
+* 6.6 Describe the functionality of these IP Services: DHCP, DNS, NAT, SNMP, NTP
+* 6.7 Recognize common protocol port values (such as, SSH, Telnet, HTTP, HTTPS, and NETCONF)
+* 6.8 Identify cause of application connectivity issues (NAT problem, Transport Port blocked, proxy, and VPN)
+* 6.9 Explain the impacts of network constraints on applications
